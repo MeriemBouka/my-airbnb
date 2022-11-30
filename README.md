@@ -1,5 +1,6 @@
 # my-airbnb 
-Page d'accueil réalisée à partir d'une maquette Figma :art:\
+Page d'accueil réalisée à partir d'une maquette Figma :art:  
+  
 Affichage des données et badges de manière dynamique :sparkles:
 
 
