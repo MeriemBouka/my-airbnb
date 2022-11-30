@@ -1,3 +1,9 @@
+# my-airbnb 
+Page d'accueil réalisée à partir d'une maquette Figma :art:\
+Affichage des données et badges de manière dynamique :sparkles:
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
